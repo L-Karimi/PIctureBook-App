@@ -13,18 +13,28 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PictureBook"
         tools:targetApi="31">
+
+        <activity
+            android:name=".AudiA6Activity"
+            android:exported="false" />
         <activity
             android:name=".AudiA7Activity"
             android:exported="false" />
         <activity
-            android:name=".AudiA6Activity"
+            android:name=".AudiA8Activity"
             android:exported="false" />
         <activity
             android:name=".AudiQ5Activity"
             android:exported="false" />
         <activity
-            android:name=".AudiA8Activity"
-            android:exported="false" />
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

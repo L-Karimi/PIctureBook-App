@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
+
     tools:context=".MainActivity">
 
     <TextView
@@ -36,6 +38,7 @@
         android:layout_marginTop="190dp"
         android:layout_marginEnd="16dp"
         android:text="The Q7 is a beast at your command and every order is perfectly executed. It’s built for speed, luxury and family unto which it flawlessly delivers."
+        android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"

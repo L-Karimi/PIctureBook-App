@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_audi_a6.xml" value="0.19375" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.1265" />
+        <entry key="app/src/main/res/layout/activity_audi_a6.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_audi_a7.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_audi_a8.xml" value="0.19375" />
-        <entry key="app/src/main/res/layout/activity_audi_q5.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_audi_q5.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19375" />
       </map>
     </option>
   </component>
@@ -16,5 +18,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="1.0" />
+      </ProjectState>
+    </option>
   </component>
 </project>
